@@ -1,6 +1,6 @@
 sync docker.io/calico/pod2daemon-flexvol:v3.14.2
 
-support kubernetes version: v1.18.x / v1.19.x / v1.20.x
+support kubernetes version: v1.16.x / v1.17.x / v1.18.x
 
 install on kubernetes, see below:
 
